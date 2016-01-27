@@ -1,3 +1,6 @@
+#Gibbs sampler for Latent Dirichlet Allocation (LDA)
+#dependcy: nltk, numpy, scipy
+#Ref: Parameteres Estimation For Aext Analysis
 import os
 import numpy as np
 import scipy as sp
