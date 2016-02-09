@@ -5,12 +5,17 @@
 * Numpy
 * Scipy
 * NLTK
+
 ### Installation
+
 Just put Gib.py in the same path as your project.
+
 ### Command Line Tool
+
 ```sh
 python Gib.py [corpus path] [iteration times] [number of topics]
 ```
+
 ### Sampler API
 
 <pre><code>
