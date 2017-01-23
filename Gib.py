@@ -10,6 +10,8 @@ import sys
 
 class gibbssampler(object):
 
+
+
 	
 
 	def __init__(self, K = 10, T = 1,a = 0.1,b=0.1,path = "test_corpus.txt"):
