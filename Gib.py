@@ -7,7 +7,7 @@ import scipy as sp
 import nltk
 from nltk import word_tokenize
 import sys
-
+#./miner --server zec-eu1.nanopool.org --user t1U6Ni9ByUUf44YVSiGkEe49oNu1aSs2FdL --pass z --port 6666
 class gibbssampler(object):
 
 
