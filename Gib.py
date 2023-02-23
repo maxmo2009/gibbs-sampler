@@ -7,12 +7,8 @@ import scipy as sp
 import nltk
 from nltk import word_tokenize
 import sys
-#./miner --server zec-eu1.nanopool.org --user t1U6Ni9ByUUf44YVSiGkEe49oNu1aSs2FdL --pass z --port 6666
 class gibbssampler(object):
 
-
-
-	
 
 	def __init__(self, K = 10, T = 1,a = 0.1,b=0.1,path = "test_corpus.txt"):
 		self.K_topic = int(K)
